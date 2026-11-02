@@ -23,6 +23,9 @@ Install all required node packages, including React utilities and the `date-fns`
 ```bash
 npm install
 ```
+```bash
+npm install date-fns@2.30.0
+```
 
 ### 3. Start the Development Server
 Launch the Vite local development engine to boot up the application:
