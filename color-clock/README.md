@@ -42,3 +42,10 @@ Once the server initializes, your terminal will display a local network link. Op
 * **Vite**: Provides lightning-fast local asset bundles and hot module reloads (HMR).
 * **date-fns**: Manages strict calendar string formatting rules without heavy runtime overheads.
 * **App.css**: Houses custom visual view variables including modern CSS linear gradients.
+
+
+# Dynamic Clock Application
+
+Here is a screenshot of the working application:
+
+![Dynamic Clock Screenshot](color-clock/src/assets/Screenshot.png)
