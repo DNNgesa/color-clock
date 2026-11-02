@@ -48,4 +48,4 @@ Once the server initializes, your terminal will display a local network link. Op
 
 Here is a screenshot of the working application:
 
-![Dynamic Clock Screenshot](color-clock/color-clock/src/assets/Screenshot.png)
+![Dynamic Clock Screenshot](color-clock/src/assets/Screenshot.png)
